@@ -1,6 +1,5 @@
 # LINE Bot for Cassava Disease Recognition 
 
-Model: https://drive.google.com/file/d/1vr1J3Dxeh6k_UouJ0l7EnQYKSzv13Ism/view?usp=share_link
+LINE Bot for Cassava Disease Recognition is a deep learning project that helps smallholder farmers and agricultural entrepreneur to prevent cassava disease in their field by themself by using Line Application
 
-Test Dataset : https://drive.google.com/drive/folders/1C20Gm8Gk1FaNuxhYIlXROyDJeei48FiX?usp=share_link
-
+![Roll up](https://user-images.githubusercontent.com/106681968/216533039-afece9d9-bbb7-4297-af44-45363c9d4c52.jpg)
